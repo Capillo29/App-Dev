@@ -1,11 +1,9 @@
 # App-Dev
 My first repository
+| Syntax | Description |
 | ----------- | ----------- |
-| **Harry Potter** |
-|  love harry potter because theres a lot of plot twist
-  My favorite character is Harry and Ron
-  I like harry potter because for the Magic Academy |
-
+| Header | Title |
+| Paragraph | Text |
 
 
 	**Harry Potter**
