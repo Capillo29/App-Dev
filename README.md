@@ -1,6 +1,6 @@
 # App-Dev
 My first repository
-| Syntax | Description |
+| Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
